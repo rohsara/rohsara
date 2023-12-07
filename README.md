@@ -14,5 +14,5 @@ I'm Sara, a creative UX Engineer with a passion for blending design and technolo
     - Other tools: Blender, Unity, Unreal, Physical Computing with Arduino (C++)
 - Philosophy: My approach to UX engineering is rooted in creating delightful and intuitive user experiences by seamlessly integrating design and development. I believe in continuous learning and applying emerging technologies to enhance user engagement.
 - Contact: 
-    - 📧 Email: [sr5743@nyu.edu](mailto: sr5743@nyu.edu)
+    - 📧 Email: sr5743@nyu.edu
     - 🔗 LinkedIn: [Sara Ro](https://www.linkedin.com/in/sararo/)
